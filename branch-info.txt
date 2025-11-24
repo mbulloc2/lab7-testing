@@ -7,18 +7,20 @@ Branches in this repo (with details):
     b6dda5b | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-06T03:36:17Z | Bump python in /presidio-anonymizer
     f242e28 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-06T03:35:36Z | Auto-update branch-info.txt
     723f8b7 | Author: Marshall Bullock <236923363+mbulloc2@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-05T22:35:25-05:00 | Initial commit
-- dependabot/github_actions/actions/checkout-5
-  SHA: d4ac956e83f5d1db295c036525fd3fbfbfa242c8
-  Commits: 4
+- dependabot/github_actions/actions/checkout-6
+  SHA: 0f91378c3b14881cb89186f0cb742e1842e43b90
+  Commits: 5
   Recent commits:
-    d4ac956 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-06T03:36:38Z | Bump actions/checkout from 3 to 5
+    0f91378 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T08:56:43Z | Bump actions/checkout from 3 to 6
+    343bdc7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-06T03:36:45Z | Auto-update branch-info.txt
     a72e363 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-06T03:36:26Z | Auto-update branch-info.txt
     f242e28 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-06T03:35:36Z | Auto-update branch-info.txt
     723f8b7 | Author: Marshall Bullock <236923363+mbulloc2@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-05T22:35:25-05:00 | Initial commit
 - main
-  SHA: a72e36368c1a21b3d566bbcb147e32ffbf420bc4
-  Commits: 3
+  SHA: 343bdc7169242bd6754cc74cd64709c9794a5e4d
+  Commits: 4
   Recent commits:
+    343bdc7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-06T03:36:45Z | Auto-update branch-info.txt
     a72e363 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-06T03:36:26Z | Auto-update branch-info.txt
     f242e28 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-06T03:35:36Z | Auto-update branch-info.txt
     723f8b7 | Author: Marshall Bullock <236923363+mbulloc2@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-05T22:35:25-05:00 | Initial commit
